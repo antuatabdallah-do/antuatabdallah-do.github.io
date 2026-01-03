@@ -1,6 +1,6 @@
 ### Antuat Abdallah – Portfolio Informatique ###
 
-##Bienvenue ##
+## Bienvenue ##
 Ce dépôt contient le template complet d’un portfolio professionnel d’une page, hébergé gratuitement via GitHub Pages.
 Il présente mes projets scolaires, mes compétences techniques et mon parcours en Bachelor Informatique – spécialité Intelligence Artificielle.
 
@@ -15,8 +15,9 @@ Logique algorithmique et structuration de projets
 Compréhension des systèmes informatiques et du matériel
 
 Présentation claire de projets techniques
----
+
  ### Projets scolaires ###
+---
 Tic Tac Toe
 
 Développement d’un jeu Tic Tac Toe mettant en pratique la logique conditionnelle et la structuration du code.
