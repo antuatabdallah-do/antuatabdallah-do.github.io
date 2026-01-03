@@ -21,26 +21,25 @@ Présentation claire de projets techniques
 Tic Tac Toe
 
 Développement d’un jeu Tic Tac Toe mettant en pratique la logique conditionnelle et la structuration du code.
----
-##Challenge Triple A ##
 
+##Challenge Triple A ##
+---
 Projet scolaire visant à consolider les bases de l’informatique et la logique.
 
 Fansite
 
 Création d’un site web type fansite en HTML et CSS.
----
-## CIT – Montage de PC ##
 
+## CIT – Montage de PC ##
+---
 Projet pratique autour du montage d’ordinateur et de l’identification des composants.
 
 Configurations matérielles & virtualisation
 
 Étude de configurations informatiques et introduction à la virtualisation.
----
 
  ### Compétences ###
-
+---
 Les compétences peuvent être mises à jour directement dans le fichier index.html.
 
 Intégration Web
@@ -51,13 +50,9 @@ CSS3
 
 Flexbox
 
-Media Queries
-
 Programmation & outils
 
 Logique algorithmique
-
-Git & GitHub
 
 Systèmes
 
